@@ -35,7 +35,7 @@ export default async function Login() {
                                 required 
                                 placeholder="hello@hello.com"></Input>
                             </div>
-                            <SubmitButton/>
+                            <SubmitButton text="Submit"/>
                         </form>
                     </CardContent>
                 </Card>
